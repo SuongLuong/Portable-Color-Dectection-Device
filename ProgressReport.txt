@@ -1,0 +1,26 @@
+Progress Report
++ Recent project activities with reference to my project schedule: 
+	Finish setting up my Raspberry Pi program.
+	Finish the soldering part, attach my sensor on breadboard and connect it with raspberry Pi.
+	Check the address I chose from the beginning.
+
+	Right now I think I'm right on my schedule for working on hardware.
+
++ Current progress:
+	On software course: Build a general application which has all the basic function. However, it need to be connected with the hardware 
+			database at least by the end of this semester.
+
++ Some problems: 
+	Instead of connecting by VGA port, I am having a problem with connecting Pi and PC through Ethernet cable and Remote Desktop Control. 
+	Solution: See the instruction on github to figure out Pi configuration (IP address) and connect it again.
+
++ Financial updates: 
+	No other parts have been bought except:
+	Buy Ethernet cable to connect Pi and computer.
+	Buy wireless mouse and keyboard for navigation. 
+
++ Links to some published media I used for setting up: 
+	https://www.raspberrypi.org/blog/colour-sensing-raspberry-pi/  ---> i used this one to connect Pi and sensor
+
++ Plan for next week: Get my PCB soldered and make some test.
+	
