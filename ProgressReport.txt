@@ -1,4 +1,7 @@
-Progress Report
+Suong Luong
+Date: 10/23/2018
+
+							Progress Report
 + Recent project activities with reference to my project schedule: 
 	Finish setting up my Raspberry Pi program.
 	Finish the soldering part, attach my sensor on breadboard and connect it with raspberry Pi.
