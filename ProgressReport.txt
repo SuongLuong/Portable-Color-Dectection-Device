@@ -24,6 +24,11 @@ Date: 10/23/2018
 
 + Links to some published media I used for setting up: 
 	https://www.raspberrypi.org/blog/colour-sensing-raspberry-pi/  ---> i used this one to connect Pi and sensor
+	
+	
+![unadjustednonraw_thumb_19d8](https://user-images.githubusercontent.com/43184936/47753498-20d2cf80-dc6e-11e8-827c-03311469feca.jpg)
 
 + Plan for next week: Get my PCB soldered and make some test.
 	
+#Week 9 Tue Oct 30
+I finished my PCB and sent it to Prototype lab.
