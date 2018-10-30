@@ -1,9 +1,10 @@
 Repository created!
 Color Portable Device
-Week 9 Tue Oct 30
-
-
 My PCB for this week on Fritzing
+
+
+
+
 ![gerber 2_pcb](https://user-images.githubusercontent.com/43184936/47754624-e408d780-dc71-11e8-846b-587df2dad79b.jpg)
 
 
