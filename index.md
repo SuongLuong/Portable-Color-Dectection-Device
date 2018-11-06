@@ -1,6 +1,9 @@
 Repository created!
 Color Portable Device
+WEEK 10 NOV 6
+This week is the PCB soldered milestone. I
 
+WEEK 9 OCT 30
 My PCB for this week on Fritzing. The gerber files are all zipped.
 ![gerber 2_pcb](https://user-images.githubusercontent.com/43184936/47754624-e408d780-dc71-11e8-846b-587df2dad79b.jpg)
 
