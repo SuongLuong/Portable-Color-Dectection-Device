@@ -3,6 +3,7 @@ Color Portable Device
 
 
 WEEK 10 NOV 6
+
 This week is the PCB soldered milestone. I picked up my PCB from Prototype Lab and started soldering. Last week, I need to resend my correct gerber files because first time I made some problems with Fritzing (there were shorts and PCB can be made much smaller). In lab time today, I made mistakes when soldering the wrong sides on PCB. However, I learned how to use desoldering and put them back again.     
 
 
