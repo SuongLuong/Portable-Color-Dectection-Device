@@ -1,10 +1,14 @@
 Repository created!
 Color Portable Device
 
+WEEK 11 NOV 13
+
+This week is the power-up part. I connected my sensor with the PCB and Raspberry Pi. I got the [references](   
+The light sensor works by shining a white light at an object and then recording the reflected colour (percentage of RGB). It can also record the intensity of the reflection (brightness).
 
 WEEK 10 NOV 6
 
-This week is the PCB soldered milestone. I picked up my PCB from Prototype Lab and started soldering. Last week, I had to resend my Gerber files because the first time I made some problems with Fritzing (there were shorts and PCB can be made much smaller). In lab time today, I made mistakes when soldering the wrong sides on PCB. However, I learned how to use desoldering and put them back again in proper position. According to my [Project Proposal](https://github.com/SuongLuong/Portable-Color-Dectection-Device/blob/master/ProposalContent-SuongLuong.xlsx)
+This week is the PCB soldered milestone. I picked up my PCB from Prototype Lab, got the header pins and started soldering. Last week, I had to resend my Gerber files because the first time I made some problems with Fritzing (there were shorts and PCB can be made much smaller). In lab time today, I made mistakes when soldering the wrong sides on PCB. However, I learned how to use desoldering and put them back again in proper position. According to my [Project Proposal](https://github.com/SuongLuong/Portable-Color-Dectection-Device/blob/master/ProposalContent-SuongLuong.xlsx)
       
 
 
@@ -19,6 +23,10 @@ My PCB for this week on Fritzing. The gerber files are all zipped.
 ![gerber 2_pcb](https://user-images.githubusercontent.com/43184936/47754624-e408d780-dc71-11e8-846b-587df2dad79b.jpg)
 
 
+WEEK 8 
+
+My Breadboard connection
+![circuit](https://user-images.githubusercontent.com/43184936/48446311-e9344f00-e766-11e8-99ff-4753b90c4b84.PNG)
 
 Connection:
 ![unadjustednonraw_thumb_19d8](https://user-images.githubusercontent.com/43184936/47753498-20d2cf80-dc6e-11e8-827c-03311469feca.jpg)
