@@ -3,8 +3,9 @@ Color Portable Device
 
 WEEK 11 NOV 13
 
-This week is the power-up part. I connected my sensor with the PCB and Raspberry Pi. I got the [references](   
-The light sensor works by shining a white light at an object and then recording the reflected colour (percentage of RGB). It can also record the intensity of the reflection (brightness).
+This week is the power-up part. I connected my sensor with the PCB and Raspberry Pi. After connecting through Remote Desktop Control, I followed the instruction from [Adafruit](https://learn.adafruit.com/adafruit-color-sensors/python-circuitpython) to import Python code to my RPI and powered up sensor for data reading (the light sensor works by shining a white light at an object and then recording the reflected colour (the percentage of RGB). It can also record the intensity of the reflection (brightness). Here are some reading results:
+![capture](https://user-images.githubusercontent.com/43184936/48446844-6613f880-e768-11e8-9de0-f96dec0bb85b.PNG)
+
 
 WEEK 10 NOV 6
 
