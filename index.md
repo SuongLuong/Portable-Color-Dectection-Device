@@ -1,5 +1,4 @@
-Repository created!
-Color Portable Device
+# Repository created! Color Portable Device
 
 # WEEK 14 DEC 4
 Individual presentations (cont.).
