@@ -4,9 +4,15 @@ Color Portable Device
 WEEK 12 NOV 20
 
 This week is for Case encloses development platform and custom PCB. I worked on CorelDraw to design a custom case for my Platform. Prepare the presentation for next week. Make a detailed information on README file for the whole project. 
+[UPDATED] NOV 26
+I just got my proper case for RPI this afternoon from Prototype Lab. 
+
+Financial updates: Remain same, no new parts need to buy. 
+According to my schedule, 
+
 WEEK 11 NOV 13
 
-This week is the power-up part. I connected my sensor with the PCB and Raspberry Pi. After connecting through Remote Desktop Control, I followed the instruction from [Adafruit](https://learn.adafruit.com/adafruit-color-sensors/python-circuitpython) to import Python code to my RPI and powered up sensor for data reading (the light sensor works by shining a white light at an object and then recording the reflected colour (the percentage of RGB). It can also record the intensity of the reflection (brightness).Financial updates: Remain same, no new parts need to buy. 
+This week is the power-up part. I connected my sensor with the PCB and Raspberry Pi. After connecting through Remote Desktop Control, I followed the instruction from [Adafruit](https://learn.adafruit.com/adafruit-color-sensors/python-circuitpython) to import Python code to my RPI and powered up sensor for data reading (the light sensor works by shining a white light at an object and then recording the reflected colour (the percentage of RGB). It can also record the intensity of the reflection (brightness). Financial updates: Remain same, no new parts need to buy. 
 Plan for next week: Design a case for RPI and PCB (laser cut case from prototype lab)
 Here are some reading results:
 ![capture](https://user-images.githubusercontent.com/43184936/48446844-6613f880-e768-11e8-9de0-f96dec0bb85b.PNG)
