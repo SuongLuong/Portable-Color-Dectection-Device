@@ -16,9 +16,10 @@ This week is individual presentation. This is the link for my presentation.
 This week is for Case encloses development platform and custom PCB. I worked on CorelDraw to design a custom case for my Platform. Prepare the presentation for next week. Make a detailed information on README file for the whole project last 2 weeks. Unfortunately, I had problem with my first case and I did not upload it to Github before the due day. After that, I still continued working on that.
 
 [UPDATED] NOV 26
-I just got my proper case for RPI this afternoon from Prototype Lab. 
+I just got my proper case for RPI this afternoon from Prototype Lab.
+![case](https://user-images.githubusercontent.com/43184936/49111631-af7f4000-f25e-11e8-8e8f-6fd0a5983c69.jpg)
 ![case1](https://user-images.githubusercontent.com/43184936/49111023-fbc98080-f25c-11e8-8ee5-84ccff9e4897.jpg)
-![case1](https://user-images.githubusercontent.com/43184936/49111025-fc621700-f25c-11e8-8fb6-9469fe63b14d.jpg)
+
 
 Financial updates: Remain same, no new parts need to buy. 
 According to my schedule, 
