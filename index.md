@@ -1,11 +1,20 @@
 Repository created!
 Color Portable Device
+WEEK 13 NOV 27
+
+PRESENTATION
 
 WEEK 12 NOV 20
+This week is individual presentation. This is the link for my presentation.
+[Ceng317Presentation.pptx](https://github.com/SuongLuong/Portable-Color-Dectection-Device/files/2621825/Ceng317Presentation.pptx)
+
 
 This week is for Case encloses development platform and custom PCB. I worked on CorelDraw to design a custom case for my Platform. Prepare the presentation for next week. Make a detailed information on README file for the whole project. 
 [UPDATED] NOV 26
 I just got my proper case for RPI this afternoon from Prototype Lab. 
+![case1](https://user-images.githubusercontent.com/43184936/49111023-fbc98080-f25c-11e8-8ee5-84ccff9e4897.jpg)
+![case1](https://user-images.githubusercontent.com/43184936/49111025-fc621700-f25c-11e8-8fb6-9469fe63b14d.jpg)
+
 
 Financial updates: Remain same, no new parts need to buy. 
 According to my schedule, 
