@@ -7,7 +7,7 @@ II.  [Thing used in this Project](#ii-things-used-in-this-project)
 
 III. [Project Schedule](#iii-overheat-sensor-schedule)
 
-IV.  [Assembly Code](#iv-assembly-code)
+IV.  [Setting Up](#iv-setting-up)
 
 V.   [Printed Circuit Board PCB and Soldering](#v-printed-circuit-board-pcb-and-soldering)
 
@@ -59,7 +59,7 @@ The schedule for my whole project.
 
 This project can be done in about 1 week time if all components are ready. The ordering process may be longer if you order outside Canada. Some websites to purchase: <a href="https://elmwoodelectronics.ca/">ElmWoodElectronic</a>
 
-### IV. Assembly Code
+### IV. Setting Up
 
 ### V. Printed Circuit Board PCB and Soldering
 - The Breadboard view of the connection:
@@ -70,7 +70,9 @@ This project can be done in about 1 week time if all components are ready. The o
 
 ![image](https://user-images.githubusercontent.com/43184936/49830428-250b0600-fd5f-11e8-8b99-ff5a83d2960c.png)
 
-- Soldering Process: By using IntelliHeat in the Lab, it may take 1 hour. Be carefull with the PCB sides to be connected properly.
+- Soldering Process: Get started by reviewing the [soldering videos](https://radiojove.gsfc.nasa.gov/telescope/soldering.htm). By using equipment in the Lab, it may take 1 hour. Be carefull with the PCB sides to be connected properly.
+
+![image](https://user-images.githubusercontent.com/43184936/49834731-23dfd600-fd6b-11e8-9508-3d3ccbf8ef65.png)
 
 ![image](https://user-images.githubusercontent.com/43184936/49830749-107b3d80-fd60-11e8-8114-dd1dacf86bb6.png)
 
