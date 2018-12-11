@@ -21,9 +21,9 @@ The TCS34725 RGB color sensor board can be used to detect the color of objects. 
 ![d](https://user-images.githubusercontent.com/43184936/49826532-1f102780-fd55-11e8-8695-47e925f3c31f.png)
 (retrieved from http://home.roboticlab.eu/en/examples/sensor/color)
 
-An System Diagram for the Project (Combination of hardware, software and database)
+- An System Diagram for the Project. It explains the connection between Raspberry Pi and the sensor.
 
-
+![image](https://user-images.githubusercontent.com/43184936/49833644-25f46580-fd68-11e8-9849-7612f7e7980d.png)
 
 ### II. Things used in this project
 - The TCS34725 Color Sensor
