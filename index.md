@@ -81,18 +81,20 @@ Proof of purchase:
 
 # WEEK 4
 
-All acquisitions delivered
+Budget due this week. My budget <a href="https://github.com/SuongLuong/Portable-Color-Dectection-Device/files/2669552/Buget317.1.xlsx
+">Budget</a>
+All acquisitions delivered.
 
 # WEEK 3
 
-Proposal due
+Project Schedule Due. 
 
 # WEEK 2
-
+Project Proposal Due. 
 Schedule due
 
 # WEEK 1
-
+Introduction, Crib Pi,
 Budget due
 
 
