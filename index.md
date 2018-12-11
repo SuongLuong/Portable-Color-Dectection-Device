@@ -63,6 +63,16 @@ Proof of purchase:
 ![colorsensor](https://user-images.githubusercontent.com/43184936/46377824-cb53d480-c667-11e8-8efc-5e95784c90de.PNG)
 ![rpi](https://user-images.githubusercontent.com/43184936/46377826-cbec6b00-c667-11e8-88db-f10f7ce67be9.PNG)
 
+# WEEk 7 OCT 16
+
+This week is Pseudo code Assignment due on blackboard
+My acquistion, UML diagram and soldering
+
+![47753498-20d2cf80-dc6e-11e8-827c-03311469feca](https://user-images.githubusercontent.com/43184936/49829567-c2b10600-fd5c-11e8-9478-9748ceba33ea.jpg)
+
+# WEEk 6 
+Study Week
+
 
 
 
