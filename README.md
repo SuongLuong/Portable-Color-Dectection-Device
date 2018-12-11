@@ -72,11 +72,21 @@ This project can be done in about 1 week time if all components are ready. The o
 
 ![solder](https://user-images.githubusercontent.com/43184936/49830819-3ef91880-fd60-11e8-87f6-ffeedf95c4a3.jpeg)
 
+![48100858-f8f5e580-e1f2-11e8-9daf-02c232f5b149](https://user-images.githubusercontent.com/43184936/49830858-618b3180-fd60-11e8-88bf-d1194a70eeca.jpeg)
 
+#### Enclosure (Case for the whole hardware]
 
+For this part, we need to work on CorelDraw. All the hardware dimensions should be measured carefully to fit the case. The default file for RPI case can be found on CENG317 folder. We need to modify this case and send the design files to Prototype Lab (prototypelab@humber.ca) to get the case. This case can be laser cut just in 5 minitues but you need to wait in line for other people.
 
+My design file in the same directory with the name Pi2CaseX6.cdr
 
+The complete product:
 
+![image](https://user-images.githubusercontent.com/43184936/49831439-e62a7f80-fd61-11e8-8572-3d28de42fa03.png)
+
+![image](https://user-images.githubusercontent.com/43184936/49831448-eb87ca00-fd61-11e8-98b0-95c825fcbdde.png)
+      
 ### VI. Power Up and Unit Testing
+- Power Up: Through Ethernet cable, and Remote Desktop Control, you can connect and check your I2C address.
 
 ### VII. Production Testing
