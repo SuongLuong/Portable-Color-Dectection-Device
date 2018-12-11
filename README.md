@@ -22,7 +22,6 @@ The TCS34725 RGB color sensor board can be used to detect the color of objects. 
 (retrieved from http://home.roboticlab.eu/en/examples/sensor/color)
 
 - An System Diagram for the Project. It explains the connection between Raspberry Pi and the sensor.
-(retrieved from https://www.google.com/search?q=raspberry+pi+3&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiz-YLm5pjfAhWE_YMKHWn6C_8Q_AUIDigB&biw=1440&bih=720#imgrc=7EPdukg2I5VbWM:)
 
 ![image](https://user-images.githubusercontent.com/43184936/49833644-25f46580-fd68-11e8-9849-7612f7e7980d.png)
 
@@ -39,8 +38,9 @@ The TCS3472 device provides a digital return of red, green, blue (RGB), and clea
 (retrieved from: https://www.adafruit.com/product/1334)
 
 ![raspberry](https://user-images.githubusercontent.com/43184936/49824862-0a319500-fd51-11e8-9716-404b64f69bb5.jpg)
+(retrieved from https://www.google.com/search?q=raspberry+pi+3&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiz-YLm5pjfAhWE_YMKHWn6C_8Q_AUIDigB&biw=1440&bih=720#imgrc=7EPdukg2I5VbWM:)
 
- (from Prototype Lab)
+- The pin header from Prototype Lab:
  
 ![2x20pins](https://user-images.githubusercontent.com/43184936/49826920-12d89a00-fd56-11e8-876b-23ddb2447342.jpeg)
 
