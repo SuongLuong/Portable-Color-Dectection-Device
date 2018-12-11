@@ -82,7 +82,7 @@ This project can be done in about 1 week time if all components are ready. The o
 
 For this part, we need to work on CorelDraw. All the hardware dimensions should be measured carefully to fit the case. The default file for RPI case can be found on CENG317 folder. We need to modify this case and send the design files to Prototype Lab (prototypelab@humber.ca) to get the case. This case can be laser cut just in 5 minitues but you need to wait in line for other people.
 
-My design file in the same directory with the name Pi2CaseX6.cdr
+My design file in the same directory with the name Pi2CaseX6.cdr. The Fritzing file is available here: https://github.com/six0four/StudentSenseHat/tree/master/electronics/StudentSenseHatV06.fzz
 
 The complete product:
 
