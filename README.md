@@ -24,6 +24,7 @@ The TCS34725 RGB color sensor board can be used to detect the color of objects. 
 - An System Diagram for the Project. It explains the connection between Raspberry Pi and the sensor.
 
 ![image](https://user-images.githubusercontent.com/43184936/49833644-25f46580-fd68-11e8-9849-7612f7e7980d.png)
+(drawn from lucidchard https://www.lucidchart.com/documents/edit/7af3db7f-a6f4-4ede-a7d2-054a490fb571/0)
 
 ### II. Things used in this project
 - The TCS34725 Color Sensor
@@ -60,6 +61,7 @@ The schedule for my whole project.
 This project can be done in about 1 week time if all components are ready. The ordering process may be longer if you order outside Canada. Some websites to purchase: <a href="https://elmwoodelectronics.ca/">ElmWoodElectronic</a>
 
 ### IV. Setting Up
+
 #### Student Raspberry Pi Image Creation and Test Code
 
 1. Download, unzip, and copy the folder contents of http://downloads.raspberrypi.org/NOOBS/images/NOOBS-2017-08-17/NOOBS_v2_4_3.zip into the SD card (at least 8GB).
@@ -155,6 +157,7 @@ Connect to the Raspberry Pi through Wi-Fi will be easier. This is the instructio
 - The Breadboard view of the connection:
 
 ![image](https://user-images.githubusercontent.com/43184936/49830355-ee34f000-fd5e-11e8-82f9-a9ec99e9e771.png)
+(retrieved from http://www.pibits.net/code/raspberry-pi-and-tcs34725-color-sensor.php)
 
 - The design for PCB on Fritzing: <a href="https://github.com/SuongLuong/Portable-Color-Dectection-Device/files/2669423/gerberfiles.zip">FritzingGerberFiles</a>
 
