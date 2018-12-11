@@ -70,6 +70,9 @@ This project can be done in about 1 week time if all components are ready. The o
 
 ![image](https://user-images.githubusercontent.com/43184936/49830749-107b3d80-fd60-11e8-8114-dd1dacf86bb6.png)
 
+![solder](https://user-images.githubusercontent.com/43184936/49830819-3ef91880-fd60-11e8-87f6-ffeedf95c4a3.jpeg)
+
+
 
 
 
