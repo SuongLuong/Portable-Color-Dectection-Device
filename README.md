@@ -48,7 +48,9 @@ The TCS3472 device provides a digital return of red, green, blue (RGB), and clea
 
 
 ### III. Project Schedule
+
 The schedule for my whole project. 
+
 ![image](https://user-images.githubusercontent.com/43184936/49830020-06f0d600-fd5e-11e8-9068-03cf894a4bb1.png)
 
 This project can be done in about 1 week time if all components are ready. The ordering process may be longer if you order outside Canada. Some websites to purchase: <a href="https://elmwoodelectronics.ca/">ElmWoodElectronic</a>
@@ -64,7 +66,9 @@ This project can be done in about 1 week time if all components are ready. The o
 
 ![image](https://user-images.githubusercontent.com/43184936/49830428-250b0600-fd5f-11e8-8b99-ff5a83d2960c.png)
 
+- Soldering Process: By using IntelliHeat in the Lab, it may take 1 hour. Be carefull with the PCB sides to be connected properly.
 
+![image](https://user-images.githubusercontent.com/43184936/49830749-107b3d80-fd60-11e8-8114-dd1dacf86bb6.png)
 
 
 
