@@ -89,4 +89,31 @@ The complete product:
 ### VI. Power Up and Unit Testing
 - Power Up: Through Ethernet cable, and Remote Desktop Control, you can connect and check your I2C address.
 
+![a](https://user-images.githubusercontent.com/43184936/49832728-7c13d980-fd65-11e8-9d9b-92f88a5a5269.jpeg)
+
+
+![ab](https://user-images.githubusercontent.com/43184936/49832748-9057d680-fd65-11e8-81ba-8b61d6444e3c.jpeg)
+
+- Output: The code used to detect
+
+sudo i2cdetect -y 1
+
+
+![image](https://user-images.githubusercontent.com/43184936/49832819-c1d0a200-fd65-11e8-855b-d6973e42e7b2.png)
+
+![image](https://user-images.githubusercontent.com/43184936/49832828-c5fcbf80-fd65-11e8-8ea6-eaaeb3163a8e.png)
+
+Everytime we put the object near the sensor, the RGB value wil changed.
+
+- The source code <a href="https://github.com/SuongLuong/Portable-Color-Dectection-Device/files/2669619/pythoncode.txt">Code</a>
+
+
+
+
+
+
+
+
+
+
 ### VII. Production Testing
