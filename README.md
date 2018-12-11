@@ -48,11 +48,27 @@ The TCS3472 device provides a digital return of red, green, blue (RGB), and clea
 
 
 ### III. Project Schedule
-The schedule for my whole project can be found here. <a href="https://user-images.githubusercontent.com/43184936/49829945-d4df7400-fd5d-11e8-8238-5a85921eae03.jpg">Schedule</a>
+The schedule for my whole project. 
+![image](https://user-images.githubusercontent.com/43184936/49830020-06f0d600-fd5e-11e8-9068-03cf894a4bb1.png)
+
+This project can be done in about 1 week time if all components are ready. The ordering process may be longer if you order outside Canada. Some websites to purchase: <a href="https://elmwoodelectronics.ca/">ElmWoodElectronic</a>
 
 ### IV. Assembly Code
 
 ### V. Printed Circuit Board PCB and Soldering
+- The Breadboard view of the connection:
+
+![image](https://user-images.githubusercontent.com/43184936/49830355-ee34f000-fd5e-11e8-82f9-a9ec99e9e771.png)
+
+- The design for PCB on Fritzing: <a href="https://github.com/SuongLuong/Portable-Color-Dectection-Device/files/2669423/gerberfiles.zip">FritzingGerberFiles</a>
+
+![image](https://user-images.githubusercontent.com/43184936/49830428-250b0600-fd5f-11e8-8b99-ff5a83d2960c.png)
+
+
+
+
+
+
 
 ### VI. Power Up and Unit Testing
 
