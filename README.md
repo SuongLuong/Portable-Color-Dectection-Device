@@ -19,7 +19,7 @@ VII. [Production Testing](#vii-production-testing)
 The TCS34725 RGB color sensor board can be used to detect the color of objects. It works with the Raspberry Pi using an I2C connection.  When used to detect the color of things, the led should be on and the object should be put on the top of the enclosure closely. The theory of sensing the color of objects is Reflective Sensing Theory as below.
 
 ![d](https://user-images.githubusercontent.com/43184936/49826532-1f102780-fd55-11e8-8695-47e925f3c31f.png)
-(retrieved from home.roboticlab)
+(retrieved from http://home.roboticlab.eu/en/examples/sensor/color)
 
 An System Diagram for the Project (Combination of hardware, software and database)
 
