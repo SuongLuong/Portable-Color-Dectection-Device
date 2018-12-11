@@ -183,7 +183,7 @@ My design file in the same directory with the name Pi2CaseX6.cdr.
 
 The Fritzing file is available here: https://github.com/six0four/StudentSenseHat/tree/master/electronics/StudentSenseHatV06.fzz
 
-The complete product:
+The complete product. We're better use a clear material for the case instead of the black one. The reason why I used this because the Prototype lab no longer had the clear material at that time. 
 
 ![image](https://user-images.githubusercontent.com/43184936/49831439-e62a7f80-fd61-11e8-8572-3d28de42fa03.png)
 
