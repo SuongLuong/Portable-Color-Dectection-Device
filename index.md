@@ -74,7 +74,7 @@ Study Week
 
 Parts ordered:
 
-Proof of purchase:
+Proof of purchase due:
 
 ![colorsensor](https://user-images.githubusercontent.com/43184936/46377824-cb53d480-c667-11e8-8efc-5e95784c90de.PNG)
 ![rpi](https://user-images.githubusercontent.com/43184936/46377826-cbec6b00-c667-11e8-88db-f10f7ce67be9.PNG)
@@ -83,21 +83,18 @@ Proof of purchase:
 
 Budget due this week. My budget <a href="https://github.com/SuongLuong/Portable-Color-Dectection-Device/files/2669552/Buget317.1.xlsx
 ">Budget</a>
-All acquisitions delivered.
+
 
 # WEEK 3
 
 Project Schedule Due. 
 
 # WEEK 2
-Project Proposal Due. 
+Project Proposal Due. <a href="ProposalContent-SuongLuong.xlsx](https://github.com/SuongLuong/Portable-Color-Dectection-Device/files/2669560/ProposalContent-SuongLuong.xlsx">Proposal</a>
 Schedule due
 
 # WEEK 1
-Introduction, Crib Pi,
-Budget due
-
-
+Introduction, Crib Pi, Homework on Lynda, Choose I2C address.
 
 
 
