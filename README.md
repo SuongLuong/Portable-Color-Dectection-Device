@@ -174,7 +174,11 @@ Connect to the Raspberry Pi through Wi-Fi will be easier. This is the instructio
 
 For this part, we need to work on CorelDraw. All the hardware dimensions should be measured carefully to fit the case. The default file for RPI case can be found on CENG317 folder. We need to modify this case and send the design files to Prototype Lab (prototypelab@humber.ca) to get the case. This case can be laser cut just in 5 minitues but you need to wait in line for other people.
 
-My design file in the same directory with the name Pi2CaseX6.cdr. The Fritzing file is available here: https://github.com/six0four/StudentSenseHat/tree/master/electronics/StudentSenseHatV06.fzz
+My design file in the same directory with the name Pi2CaseX6.cdr. 
+
+![image](https://user-images.githubusercontent.com/43184936/49835303-c8aee300-fd6c-11e8-8941-ad3ff21ddc0d.png)
+
+The Fritzing file is available here: https://github.com/six0four/StudentSenseHat/tree/master/electronics/StudentSenseHatV06.fzz
 
 The complete product:
 
