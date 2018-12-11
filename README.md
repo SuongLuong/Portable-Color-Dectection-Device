@@ -42,14 +42,14 @@ The TCS3472 device provides a digital return of red, green, blue (RGB), and clea
 
 ![6pinsstackableheader](https://user-images.githubusercontent.com/43184936/49826921-13713080-fd56-11e8-9ddc-2c08ae6f2c13.jpg)
 
-- Bill of Materials/Budgets: Total for hardware components. More detail [] 
+- Bill of Materials/Budgets: Total for hardware components. More detail [Buget317.xlsx](https://github.com/SuongLuong/Portable-Color-Dectection-Device/files/2669320/Buget317.xlsx] 
 
 ![image](https://user-images.githubusercontent.com/43184936/49828283-7dd7a000-fd59-11e8-9aae-924e75a76793.png)
 
 
 ### III. Project Schedule
 
-
+a weekend
 
 ### IV. Assembly Code
 
