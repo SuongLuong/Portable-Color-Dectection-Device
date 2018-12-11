@@ -43,9 +43,9 @@ The TCS3472 device provides a digital return of red, green, blue (RGB), and clea
 
 - The pin header from Prototype Lab:
  
-![2x20pins](https://user-images.githubusercontent.com/43184936/49826920-12d89a00-fd56-11e8-876b-23ddb2447342.jpeg)
+![fdasfsdafsda](https://user-images.githubusercontent.com/43184936/49835914-c2ba0180-fd6e-11e8-950b-5be3508e1bbe.jpeg)
 
-![6pinsstackableheader](https://user-images.githubusercontent.com/43184936/49826921-13713080-fd56-11e8-9ddc-2c08ae6f2c13.jpg)
+![haha](https://user-images.githubusercontent.com/43184936/49835942-e2512a00-fd6e-11e8-86f2-024cc6c7227f.jpg)
 
 - Bill of Materials/Budgets: Total for hardware components. More detail <a href="https://github.com/SuongLuong/Portable-Color-Dectection-Device/files/2669320/Buget317.xlsx">Budget</a>
 
