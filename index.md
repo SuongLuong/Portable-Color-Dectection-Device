@@ -93,7 +93,7 @@ Project Schedule Due.
 # WEEK 2
 Project Proposal Due. <a href="https://github.com/SuongLuong/Portable-Color-Dectection-Device/files/2669560/ProposalContent-SuongLuong.xlsx">Proposal</a>
 
-Schedule due
+
 
 # WEEK 1
 Introduction, Crib Pi, Homework on Lynda, Choose I2C address.
