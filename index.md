@@ -90,7 +90,8 @@ Budget due this week. My budget <a href="https://github.com/SuongLuong/Portable-
 Project Schedule Due. 
 
 # WEEK 2
-Project Proposal Due. <a href="ProposalContent-SuongLuong.xlsx](https://github.com/SuongLuong/Portable-Color-Dectection-Device/files/2669560/ProposalContent-SuongLuong.xlsx">Proposal</a>
+Project Proposal Due. <a href="https://github.com/SuongLuong/Portable-Color-Dectection-Device/files/2669560/ProposalContent-SuongLuong.xlsx">Proposal</a>
+
 Schedule due
 
 # WEEK 1
