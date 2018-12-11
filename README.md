@@ -215,12 +215,22 @@ Everytime we put the object near the sensor, the RGB value wil changed.
 - We need to make sure all the connection are correct:
 
 TCS34725  RPi
+
 SDA       P3 GPIO 0 (SDA)
+
 SCL       P5 GPIO 1 (SCL)
+
 3V3       P1 3V3
+
 GND       P9
 
-- Tip:
-For the connection between RPI and Remote Desktop Control: We need to modify the network sharing first so the RPI will be recognized by the computer. IP Advanced Scanner can be used to scan your RPI IP address and make it easier. 
+#### Tip:
+- For the connection between RPI and Remote Desktop Control: We need to modify the network sharing first so the RPI will be recognized by the computer. IP Advanced Scanner can be used to scan your RPI IP address and make it easier. 
 
-For the case: We better need an printed paper first to fit the hardware platform before printing the real laser-cut case. It will save time.
+- For the case: We better need an printed paper first to fit the hardware platform before printing the real laser-cut case. It will save time.
+
+- For more information, go on the helful links:
+
+http://bradsrpi.blogspot.com/2013/05/tcs34725-rgb-color-sensor-raspberry-pi.html
+
+https://www.adafruit.com/product/1334
