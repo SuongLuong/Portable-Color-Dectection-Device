@@ -1,7 +1,7 @@
 
 # TCS34725 RGB Color Sensor & the Raspberry Pi
 ## TABLE OF CONTENT
-I.   [Introduction](#i-introduction)
+I.    [Introduction](#i-introduction)
 
 II.  [Thing used in this Project](#ii-things-used-in-this-project)
 
