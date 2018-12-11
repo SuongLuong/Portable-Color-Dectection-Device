@@ -48,8 +48,7 @@ The TCS3472 device provides a digital return of red, green, blue (RGB), and clea
 
 
 ### III. Project Schedule
-
-a weekend
+The schedule for my whole project can be found here. <a href="
 
 ### IV. Assembly Code
 
