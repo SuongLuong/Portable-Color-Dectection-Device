@@ -70,6 +70,8 @@ My acquistion, UML soldering
 # WEEK 6 
 Study Week
 
+Breadboarded my circuit to test color sensor with the development platform and use fritzing to record my work.
+
 # WEEK 5
 
 Parts ordered:
@@ -83,7 +85,6 @@ Proof of purchase due:
 
 Budget due this week. My budget <a href="https://github.com/SuongLuong/Portable-Color-Dectection-Device/files/2669552/Buget317.1.xlsx
 ">Budget</a>
-
 
 # WEEK 3
 
