@@ -1,7 +1,7 @@
 
 # TCS34725 RGB Color Sensor & the Raspberry Pi
 ## TABLE OF CONTENT
-I.   [ Introduction](#i-introduction)
+I.   [Introduction](#i-introduction)
 
 II.  [Thing used in this Project](#ii-things-used-in-this-project)
 
@@ -16,7 +16,10 @@ VI.  [Power Up and Unit Testing](#vi-power-up-and-unit-testing)
 VII. [Production Testing](#vii-production-testing)
 
 ### I. Introduction
-The TCS34725 RGB color sensor board from Adafruit works with the Raspberry Pi using an I2C connection. 
+The TCS34725 RGB color sensor board can be used to detect the color of objects. It works with the Raspberry Pi using an I2C connection.  When used to detect the color of things, the led should be on and the object should be put on the top of the enclosure closely. The theory of sensing the color of objects is Reflective Sensing Theory.
+
+![d](https://user-images.githubusercontent.com/43184936/49826532-1f102780-fd55-11e8-8695-47e925f3c31f.png)
+(retrieved from home.roboticlab)
 
 ### II. Things used in this project
 - The TCS3472 device provides a digital return of red, green, blue (RGB), and clear light sensing values. An IR blocking filter, integrated on-chip and localized to the color sensing photodiodes, allows color measurements to be made accurately. The TCS3472 an ideal color sensor solution for use under varying lighting conditions and through attenuating materials. 
