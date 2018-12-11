@@ -27,7 +27,7 @@ The TCS34725 RGB color sensor board can be used to detect the color of objects. 
 - 6-pin Headers
 - 2x20-pin Header
 
-- The TCS3472 device provides a digital return of red, green, blue (RGB), and clear light sensing values. An IR blocking filter, integrated on-chip and localized to the color sensing photodiodes, allows color measurements to be made accurately. The TCS3472 an ideal color sensor solution for use under varying lighting conditions and through attenuating materials. 
+--The TCS3472 device provides a digital return of red, green, blue (RGB), and clear light sensing values. An IR blocking filter, integrated on-chip and localized to the color sensing photodiodes, allows color measurements to be made accurately. The TCS3472 an ideal color sensor solution for use under varying lighting conditions and through attenuating materials. 
 
 ![sensor](https://user-images.githubusercontent.com/43184936/49824796-e2dac800-fd50-11e8-8d7f-00377f148ccd.jpg)
 
