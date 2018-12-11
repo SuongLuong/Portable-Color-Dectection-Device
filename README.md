@@ -60,6 +60,96 @@ The schedule for my whole project.
 This project can be done in about 1 week time if all components are ready. The ordering process may be longer if you order outside Canada. Some websites to purchase: <a href="https://elmwoodelectronics.ca/">ElmWoodElectronic</a>
 
 ### IV. Setting Up
+#### Student Raspberry Pi Image Creation and Test Code
+
+1. Download, unzip, and copy the folder contents of http://downloads.raspberrypi.org/NOOBS/images/NOOBS-2017-08-17/NOOBS_v2_4_3.zip into the SD card (at least 8GB).
+
+2. Insert the SD Card into the Raspberry Pi. For first time usage, a HDMI cable, a wireless mouse and a separate screen is required. 
+
+3. Perform necessary update as instructed by the Pi steps by steps.
+
+4. Open the terminal in the top left corner of the screen and input the following lines (this takes quite a long time):
+
+wget https://raw.githubusercontent.com/six0four/StudentSenseHat/master/firmware/hshcribv01.sh \  
+-O /home/pi/hshcribv01.sh  
+chmod u+x /home/pi/hshcribv01.sh  
+/home/pi/hshcribv01.sh
+
+5. Reboot the RPI
+
+#### Enterprise Wi-Fi
+Connect to the Raspberry Pi through Wi-Fi will be easier. This is the instruction for connection the Raspberry Pi to the Humber Wifi:
+
+1.  In /etc/network/interfaces:
+	```
+	auto lo
+	iface lo inet loopback
+	iface eth0 inet dhcp
+	allow-hotplug wlan0
+	iface wlan0 inet manual
+	wpa-roam /etc/wpa_supplicant/wpa_supplicant.conf
+	iface default inet dhcp
+	```
+
+2.  In /etc/wpa_supplicant/wpa_supplicant.conf:
+
+    ```
+	sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
+	```
+
+    ```
+	# sample network configuration for Humber College myWi-Fi
+	# change text in <> to your account values (remove the < and > while doing this )
+	network={
+		ssid="myWi-Fi@Humber"
+		key_mgmt=WPA-EAP
+		auth_alg=OPEN
+		eap=PEAP
+		identity="<YourHCNetID>"
+		password="<YourHCnetPassword>"
+		phase1="peaplabel=0"
+		phase2="auth=MSCHAPV2"
+		priority=999
+		proactive_key_caching=1
+	}
+
+	# Sample network configuration for joining Eduroam Wi-Fi network
+	# change text in <> to your account values (remove the < and > while doing this )
+	network={
+		ssid="eduroam"
+		scan_ssid=1
+		key_mgmt=WPA-EAP
+		eap=PEAP
+		identity="<YourHCnetID>@humber.ca"
+		password="<YourHCnetPassword>"
+		phase1="peaplabel=0"
+		phase2="auth=MSCHAPV2"
+		proactive_key_caching=1
+
+	}
+
+	# Sample network configuration for joining a home wi-fi network.
+	# change text in <> to your network values (remove the < and > while doing this )
+	network={
+		ssid="<yourNetworkSSID"
+		psk="<yourNetworkPassword>"
+		proto=RSN
+		key_mgmt=WPA-PSK
+		pairwise=CCMP
+		auth_alg=OPEN
+	}
+
+	#Sample networtk configuration for joining open, unsecured network
+	network={
+		ssid="<yourNetworkSSID>"
+		key_mgmt=NONE
+	}
+	```
+
+3.  Download Humber Certificate (For HumberSecure).cer from https://its.humber.ca/wireless/humbersecure/
+
+4.  Reboot
+
 
 ### V. Printed Circuit Board PCB and Soldering
 - The Breadboard view of the connection:
@@ -112,14 +202,5 @@ sudo i2cdetect -y 1
 Everytime we put the object near the sensor, the RGB value wil changed.
 
 - The source code <a href="https://github.com/SuongLuong/Portable-Color-Dectection-Device/files/2669619/pythoncode.txt">Code</a>
-
-
-
-
-
-
-
-
-
 
 ### VII. Production Testing
